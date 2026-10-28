@@ -1,2 +1,3 @@
 hello word
 hi mario
+now we are going to do some changes in location and then we go forward to merge it using fast-merge
